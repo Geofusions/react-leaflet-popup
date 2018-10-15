@@ -1,5 +1,6 @@
 # react-leaflet-popup
 basic leaflet setup using react. displays a marker at specific location with popup.
+To run, clone repository, navigate to client folder, and type npn start in terminal.
 
 future goals:
 [ ] Display GeoJSON polygons.
